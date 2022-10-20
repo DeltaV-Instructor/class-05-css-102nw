@@ -53,3 +53,16 @@ footer {
   background-color: rgba(205, 26, 221);
   height: 100px;
 }
+
+#hero {
+  width: 960px;
+  height: 260px;
+  border: 10px solid rebeccapurple;
+}
+
+.lowerPics {
+  display: inline-block;
+  max-width: 30%;
+  margin: 10px;
+  text-align: center;
+}
